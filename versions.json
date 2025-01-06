@@ -1,7 +1,12 @@
 {"versions": [{"versiontype": "proofreading",
 		"title": "Speaking the map",
-		"authors": [{"name": "Christian Döhler %use this field for editors as well"}],
+		"authors": [{"name": "Christian Döhler"}],
 	"license": "CC-BY-4.0",
-	"publishedAt": "2024-11-18T07:17:31.000Z"}
+	"publishedAt": "2024-11-18T07:17:31.000Z"},
+	{"versiontype": "first_edition",
+		"title": "Speaking the map",
+		"authors": [{"name": "Christian Döhler"}],
+	"license": "CC-BY-4.0",
+	"publishedAt": "2024-12-18T07:17:31.000Z"}
 	]
 }
